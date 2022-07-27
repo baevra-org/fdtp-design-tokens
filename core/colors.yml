@@ -1,6 +1,7 @@
 - name: $accent
+  description: test description
   value:
-    light: '#0d99ff'
+    light: '#df1a6d'
     dark: '#0c8ce9'
 - name: $accent_alpha
   value:
