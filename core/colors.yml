@@ -1,0 +1,44 @@
+- name: $accent
+  value:
+    light: '#0d99ff'
+    dark: '#0c8ce9'
+- name: $accent_alpha
+  value:
+    light: '#0d99ff80'
+    dark: '#0c8ce966'
+- name: $primary
+  value:
+    light: '#000000'
+    dark: '#ffffff'
+- name: $secondary
+  value:
+    light: '#ffffff'
+    dark: '#000000'
+- name: $tertiary
+  value:
+    light: '#00000066'
+    dark: '#ffffff66'
+- name: $constant_white
+  value:
+    light: '#ffffff'
+    dark: '#ffffff'
+- name: $stroke
+  value:
+    light: '#0000001a'
+    dark: '#ffffff1a'
+- name: $background
+  value:
+    light: '#ffffff'
+    dark: '#2c2c2c'
+- name: $positive
+  value:
+    light: '#14ae5c'
+    dark: '#14ae5c'
+- name: $destructive
+  value:
+    light: '#f24822'
+    dark: '#e03e1a'
+- name: $destructive_alpha
+  value:
+    light: '#f2482280'
+    dark: '#e03e1a66'
