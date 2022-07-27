@@ -1,0 +1,70 @@
+- name: $headline.semibold
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Medium
+      size: 22
+      leading: 1
+      tracking: 1
+- name: $body.semibold
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Medium
+      size: 13
+      leading: 1
+      tracking: 1
+- name: $footnote.bold
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Semi Bold
+      size: 11
+      leading: 1
+      tracking: 1
+- name: $footnote.semibold
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Medium
+      size: 11
+      leading: 1
+      tracking: 1
+- name: $footnote.regular
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Regular
+      size: 11
+      leading: 1
+      tracking: 1
+- name: $caption.semibold
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Medium
+      size: 10
+      leading: 1
+      tracking: 1
+- name: $caption.regular
+  description: ''
+  value:
+    default:
+      font:
+        family: Inter
+        weight: Regular
+      size: 10
+      leading: 1
+      tracking: 1
